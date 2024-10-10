@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\uprightness.eziukwu\\Documents\\uprightnessWork\\ToDoList\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8E3EFD81-F22B-46E7-BBF3-3A8E4BDA001A}|ToDoList.csproj|c:\\users\\uprightness.eziukwu\\documents\\uprightnesswork\\todolist\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E3EFD81-F22B-46E7-BBF3-3A8E4BDA001A}|ToDoList.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E3EFD81-F22B-46E7-BBF3-3A8E4BDA001A}|ToDoList.csproj|c:\\users\\uprightness.eziukwu\\documents\\uprightnesswork\\todolist\\todolist.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{8E3EFD81-F22B-46E7-BBF3-3A8E4BDA001A}|ToDoList.csproj|solutionrelative:todolist.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ToDoList",
+              "DocumentMoniker": "C:\\Users\\uprightness.eziukwu\\Documents\\uprightnessWork\\ToDoList\\ToDoList.csproj",
+              "RelativeDocumentMoniker": "ToDoList.csproj",
+              "ToolTip": "C:\\Users\\uprightness.eziukwu\\Documents\\uprightnessWork\\ToDoList\\ToDoList.csproj",
+              "RelativeToolTip": "ToDoList.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-10T09:21:09.483Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\uprightness.eziukwu\\Documents\\uprightnessWork\\ToDoList\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\uprightness.eziukwu\\Documents\\uprightnessWork\\ToDoList\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAA1wBcAAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T14:21:06.872Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
