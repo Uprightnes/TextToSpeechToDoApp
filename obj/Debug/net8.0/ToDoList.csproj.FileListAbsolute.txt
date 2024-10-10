@@ -16,3 +16,4 @@ C:\Users\uprightness.eziukwu\Documents\uprightnessWork\ToDoList\bin\Debug\net8.0
 C:\Users\uprightness.eziukwu\Documents\uprightnessWork\ToDoList\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Speech.dll
 C:\Users\uprightness.eziukwu\Documents\uprightnessWork\ToDoList\obj\Debug\net8.0\ToDoList.csproj.AssemblyReference.cache
 C:\Users\uprightness.eziukwu\Documents\uprightnessWork\ToDoList\obj\Debug\net8.0\ToDoList.csproj.Up2Date
+C:\Users\uprightness.eziukwu\Documents\uprightnessWork\ToDoList\obj\Debug\net8.0\ToDoList.sourcelink.json
